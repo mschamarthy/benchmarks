@@ -1,0 +1,113 @@
+Disk Benchmarking report generate on - Wed Feb 17 23:21:58 CST 2016
+=========================
+Sequential Read Benchmarking
+Using Threads = 1
+	Block Size - 1B
+		Throughput : 14.14 MB/s
+		Latency : 7.073159e-05 ms
+
+	Block Size - 1KB
+		Throughput : 1390.51 MB/s
+		Latency : 7.478841e-04 ms
+
+	Block Size - 1MB
+		Throughput : 2180.10 MB/s
+		Latency : 5.310467e-01 ms
+
+Using Threads = 2
+	Block Size - 1B
+		Throughput : 6.96 MB/s
+		Latency : 1.438257e-04 ms
+
+	Block Size - 1KB
+		Throughput : 1164.69 MB/s
+		Latency : 1.301672e-03 ms
+
+	Block Size - 1MB
+		Throughput : 1536.80 MB/s
+		Latency : 7.120983e-01 ms
+
+-------------------------
+Random Read Benchmarking
+Using Threads = 1
+	Block Size - 1B
+		Throughput : 15.32 MB/s
+		Latency : 6.528443e-05 ms
+
+	Block Size - 1KB
+		Throughput : 1710.42 MB/s
+		Latency : 6.568978e-04 ms
+
+	Block Size - 1MB
+		Throughput : 2640.84 MB/s
+		Latency : 4.434733e-01 ms
+
+Using Threads = 2
+	Block Size - 1B
+		Throughput : 7.15 MB/s
+		Latency : 1.399742e-04 ms
+
+	Block Size - 1KB
+		Throughput : 994.57 MB/s
+		Latency : 1.224548e-03 ms
+
+	Block Size - 1MB
+		Throughput : 1388.81 MB/s
+		Latency : 1.060500e+00 ms
+
+-------------------------
+Sequential Write Benchmarking
+Using Threads = 1
+	Block Size - 1B
+		Throughput : 13.90 MB/s
+		Latency : 7.196181e-05 ms
+
+	Block Size - 1KB
+		Throughput : 726.60 MB/s
+		Latency : 1.414303e-03 ms
+
+	Block Size - 1MB
+		Throughput : 764.38 MB/s
+		Latency : 1.373803e+00 ms
+
+Using Threads = 2
+	Block Size - 1B
+		Throughput : 7.17 MB/s
+		Latency : 1.395406e-04 ms
+
+	Block Size - 1KB
+		Throughput : 326.95 MB/s
+		Latency : 3.159548e-03 ms
+
+	Block Size - 1MB
+		Throughput : 335.70 MB/s
+		Latency : 3.168368e+00 ms
+
+-------------------------
+Random Write Benchmarking
+Using Threads = 1
+	Block Size - 1B
+		Throughput : 13.76 MB/s
+		Latency : 7.268464e-05 ms
+
+	Block Size - 1KB
+		Throughput : 727.61 MB/s
+		Latency : 1.410238e-03 ms
+
+	Block Size - 1MB
+		Throughput : 810.67 MB/s
+		Latency : 1.296090e+00 ms
+
+Using Threads = 2
+	Block Size - 1B
+		Throughput : 7.15 MB/s
+		Latency : 1.398751e-04 ms
+
+	Block Size - 1KB
+		Throughput : 352.13 MB/s
+		Latency : 2.927008e-03 ms
+
+	Block Size - 1MB
+		Throughput : 342.91 MB/s
+		Latency : 3.073622e+00 ms
+

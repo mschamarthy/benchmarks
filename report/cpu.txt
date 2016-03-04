@@ -1,0 +1,14 @@
+CPU benchmarking report generate on - Wed Feb 17 23:20:19 CST 2016
+=========================
+CPU - no. of Threads : 1
+IOPS : 1.25 GIOPS
+FLOPS : 3.42 GFLOPS
+-------------------------
+CPU - no. of Threads : 2
+IOPS : 1.27 GIOPS
+FLOPS : 3.36 GFLOPS
+-------------------------
+CPU - no. of Threads : 4
+IOPS : 0.81 GIOPS
+FLOPS : 1.75 GFLOPS
+-------------------------

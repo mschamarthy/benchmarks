@@ -1,0 +1,57 @@
+Memory Benchmarking report generate on - Wed Feb 17 23:20:52 CST 2016
+=========================
+Sequential Read+Write Benchmarking
+Using Threads = 1
+	Block Size - 1B
+		Throughput : 263.15 MB/s
+		Latency : 7.614476e-06 ms
+
+	Block Size - 1KB
+		Throughput : 6631.54 MB/s
+		Latency : 3.461719e-04 ms
+
+	Block Size - 1MB
+		Throughput : 7666.40 MB/s
+		Latency : 3.403100e-01 ms
+
+Using Threads = 2
+	Block Size - 1B
+		Throughput : 137.38 MB/s
+		Latency : 1.458581e-05 ms
+
+	Block Size - 1KB
+		Throughput : 2847.52 MB/s
+		Latency : 7.455306e-04 ms
+
+	Block Size - 1MB
+		Throughput : 2892.53 MB/s
+		Latency : 7.822067e-01 ms
+
+-------------------------
+Random Read+Write Benchmarking
+Using Threads = 1
+	Block Size - 1B
+		Throughput : 261.22 MB/s
+		Latency : 7.674847e-06 ms
+
+	Block Size - 1KB
+		Throughput : 7075.87 MB/s
+		Latency : 3.238281e-04 ms
+
+	Block Size - 1MB
+		Throughput : 7366.75 MB/s
+		Latency : 3.507633e-01 ms
+
+Using Threads = 2
+	Block Size - 1B
+		Throughput : 136.64 MB/s
+		Latency : 1.465166e-05 ms
+
+	Block Size - 1KB
+		Throughput : 2417.04 MB/s
+		Latency : 9.118245e-04 ms
+
+	Block Size - 1MB
+		Throughput : 2493.97 MB/s
+		Latency : 9.521300e-01 ms
+
